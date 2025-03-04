@@ -1,0 +1,38 @@
+D:\Codigos VS Community\C#\C#_Proyecto_Final_Fractales\C#_Proyecto_Final_VersionPropia\C#_Proyecto_Final\bin\Debug\C#_Proyecto_Final.exe.config
+D:\Codigos VS Community\C#\C#_Proyecto_Final_Fractales\C#_Proyecto_Final_VersionPropia\C#_Proyecto_Final\bin\Debug\C#_Proyecto_Final.exe
+D:\Codigos VS Community\C#\C#_Proyecto_Final_Fractales\C#_Proyecto_Final_VersionPropia\C#_Proyecto_Final\bin\Debug\C#_Proyecto_Final.pdb
+D:\Codigos VS Community\C#\C#_Proyecto_Final_Fractales\C#_Proyecto_Final_VersionPropia\C#_Proyecto_Final\obj\Debug\C#_Proyecto_Final.csproj.AssemblyReference.cache
+D:\Codigos VS Community\C#\C#_Proyecto_Final_Fractales\C#_Proyecto_Final_VersionPropia\C#_Proyecto_Final\obj\Debug\C__Proyecto_Final.FrmFractales.resources
+D:\Codigos VS Community\C#\C#_Proyecto_Final_Fractales\C#_Proyecto_Final_VersionPropia\C#_Proyecto_Final\obj\Debug\C__Proyecto_Final.Properties.Resources.resources
+D:\Codigos VS Community\C#\C#_Proyecto_Final_Fractales\C#_Proyecto_Final_VersionPropia\C#_Proyecto_Final\obj\Debug\C#_Proyecto_Final.csproj.GenerateResource.cache
+D:\Codigos VS Community\C#\C#_Proyecto_Final_Fractales\C#_Proyecto_Final_VersionPropia\C#_Proyecto_Final\obj\Debug\C#_Proyecto_Final.csproj.CoreCompileInputs.cache
+D:\Codigos VS Community\C#\C#_Proyecto_Final_Fractales\C#_Proyecto_Final_VersionPropia\C#_Proyecto_Final\obj\Debug\C#_Proyecto_Final.exe
+D:\Codigos VS Community\C#\C#_Proyecto_Final_Fractales\C#_Proyecto_Final_VersionPropia\C#_Proyecto_Final\obj\Debug\C#_Proyecto_Final.pdb
+D:\Codigos VS Community\C#\C#_Proyecto_Final_Fractales\C#_Proyecto_Final_VersionPropia\C#_Proyecto_Final\bin\Debug\System.Buffers.dll
+D:\Codigos VS Community\C#\C#_Proyecto_Final_Fractales\C#_Proyecto_Final_VersionPropia\C#_Proyecto_Final\bin\Debug\System.Memory.dll
+D:\Codigos VS Community\C#\C#_Proyecto_Final_Fractales\C#_Proyecto_Final_VersionPropia\C#_Proyecto_Final\bin\Debug\System.Numerics.Vectors.dll
+D:\Codigos VS Community\C#\C#_Proyecto_Final_Fractales\C#_Proyecto_Final_VersionPropia\C#_Proyecto_Final\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Codigos VS Community\C#\C#_Proyecto_Final_Fractales\C#_Proyecto_Final_VersionPropia\C#_Proyecto_Final\bin\Debug\System.Buffers.xml
+D:\Codigos VS Community\C#\C#_Proyecto_Final_Fractales\C#_Proyecto_Final_VersionPropia\C#_Proyecto_Final\bin\Debug\System.Memory.xml
+D:\Codigos VS Community\C#\C#_Proyecto_Final_Fractales\C#_Proyecto_Final_VersionPropia\C#_Proyecto_Final\bin\Debug\System.Numerics.Vectors.xml
+D:\Codigos VS Community\C#\C#_Proyecto_Final_Fractales\C#_Proyecto_Final_VersionPropia\C#_Proyecto_Final\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Codigos VS Community\C#\C#_Proyecto_Final_Fractales\C#_Proyecto_Final_VersionPropia\C#_Proyecto_Final\obj\Debug\C#_Proye.B72C61F0.Up2Date
+C:\Users\sanch\OneDrive\Documentos\QUINTO\GRAFICA\C#_Proyecto_Final\C#_Proyecto_Final\bin\Debug\C#_Proyecto_Final.exe.config
+C:\Users\sanch\OneDrive\Documentos\QUINTO\GRAFICA\C#_Proyecto_Final\C#_Proyecto_Final\bin\Debug\C#_Proyecto_Final.exe
+C:\Users\sanch\OneDrive\Documentos\QUINTO\GRAFICA\C#_Proyecto_Final\C#_Proyecto_Final\bin\Debug\C#_Proyecto_Final.pdb
+C:\Users\sanch\OneDrive\Documentos\QUINTO\GRAFICA\C#_Proyecto_Final\C#_Proyecto_Final\bin\Debug\System.Buffers.dll
+C:\Users\sanch\OneDrive\Documentos\QUINTO\GRAFICA\C#_Proyecto_Final\C#_Proyecto_Final\bin\Debug\System.Memory.dll
+C:\Users\sanch\OneDrive\Documentos\QUINTO\GRAFICA\C#_Proyecto_Final\C#_Proyecto_Final\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sanch\OneDrive\Documentos\QUINTO\GRAFICA\C#_Proyecto_Final\C#_Proyecto_Final\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sanch\OneDrive\Documentos\QUINTO\GRAFICA\C#_Proyecto_Final\C#_Proyecto_Final\bin\Debug\System.Buffers.xml
+C:\Users\sanch\OneDrive\Documentos\QUINTO\GRAFICA\C#_Proyecto_Final\C#_Proyecto_Final\bin\Debug\System.Memory.xml
+C:\Users\sanch\OneDrive\Documentos\QUINTO\GRAFICA\C#_Proyecto_Final\C#_Proyecto_Final\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sanch\OneDrive\Documentos\QUINTO\GRAFICA\C#_Proyecto_Final\C#_Proyecto_Final\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sanch\OneDrive\Documentos\QUINTO\GRAFICA\C#_Proyecto_Final\C#_Proyecto_Final\obj\Debug\C#_Proyecto_Final.csproj.AssemblyReference.cache
+C:\Users\sanch\OneDrive\Documentos\QUINTO\GRAFICA\C#_Proyecto_Final\C#_Proyecto_Final\obj\Debug\C__Proyecto_Final.FrmFractales.resources
+C:\Users\sanch\OneDrive\Documentos\QUINTO\GRAFICA\C#_Proyecto_Final\C#_Proyecto_Final\obj\Debug\C__Proyecto_Final.Properties.Resources.resources
+C:\Users\sanch\OneDrive\Documentos\QUINTO\GRAFICA\C#_Proyecto_Final\C#_Proyecto_Final\obj\Debug\C#_Proyecto_Final.csproj.GenerateResource.cache
+C:\Users\sanch\OneDrive\Documentos\QUINTO\GRAFICA\C#_Proyecto_Final\C#_Proyecto_Final\obj\Debug\C#_Proyecto_Final.csproj.CoreCompileInputs.cache
+C:\Users\sanch\OneDrive\Documentos\QUINTO\GRAFICA\C#_Proyecto_Final\C#_Proyecto_Final\obj\Debug\C#_Proye.B72C61F0.Up2Date
+C:\Users\sanch\OneDrive\Documentos\QUINTO\GRAFICA\C#_Proyecto_Final\C#_Proyecto_Final\obj\Debug\C#_Proyecto_Final.exe
+C:\Users\sanch\OneDrive\Documentos\QUINTO\GRAFICA\C#_Proyecto_Final\C#_Proyecto_Final\obj\Debug\C#_Proyecto_Final.pdb

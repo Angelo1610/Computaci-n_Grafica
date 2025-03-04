@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanch\\OneDrive\\Documentos\\QUINTO\\GRAFICA\\C#_Proyecto_Final\\C#_Proyecto_Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB582EC-BCC0-48BF-BBFD-C9B93E6046FF}|C#_Proyecto_Final.csproj|c:\\users\\sanch\\onedrive\\documentos\\quinto\\grafica\\c#_proyecto_final\\c#_proyecto_final\\frmfractales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDB582EC-BCC0-48BF-BBFD-C9B93E6046FF}|C#_Proyecto_Final.csproj|solutionrelative:frmfractales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB582EC-BCC0-48BF-BBFD-C9B93E6046FF}|C#_Proyecto_Final.csproj|C:\\Users\\sanch\\OneDrive\\Documentos\\QUINTO\\GRAFICA\\C#_Proyecto_Final\\C#_Proyecto_Final\\frmfractales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB582EC-BCC0-48BF-BBFD-C9B93E6046FF}|C#_Proyecto_Final.csproj|solutionrelative:frmfractales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB582EC-BCC0-48BF-BBFD-C9B93E6046FF}|C#_Proyecto_Final.csproj|C:\\Users\\sanch\\OneDrive\\Documentos\\QUINTO\\GRAFICA\\C#_Proyecto_Final\\C#_Proyecto_Final\\fractal1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB582EC-BCC0-48BF-BBFD-C9B93E6046FF}|C#_Proyecto_Final.csproj|solutionrelative:fractal1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB582EC-BCC0-48BF-BBFD-C9B93E6046FF}|C#_Proyecto_Final.csproj|C:\\Users\\sanch\\OneDrive\\Documentos\\QUINTO\\GRAFICA\\C#_Proyecto_Final\\C#_Proyecto_Final\\fractal3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB582EC-BCC0-48BF-BBFD-C9B93E6046FF}|C#_Proyecto_Final.csproj|solutionrelative:fractal3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB582EC-BCC0-48BF-BBFD-C9B93E6046FF}|C#_Proyecto_Final.csproj|C:\\Users\\sanch\\OneDrive\\Documentos\\QUINTO\\GRAFICA\\C#_Proyecto_Final\\C#_Proyecto_Final\\fractal2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB582EC-BCC0-48BF-BBFD-C9B93E6046FF}|C#_Proyecto_Final.csproj|solutionrelative:fractal2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmFractales.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\sanch\\OneDrive\\Documentos\\QUINTO\\GRAFICA\\C#_Proyecto_Final\\C#_Proyecto_Final\\FrmFractales.cs",
+              "RelativeDocumentMoniker": "FrmFractales.cs",
+              "ToolTip": "C:\\Users\\sanch\\OneDrive\\Documentos\\QUINTO\\GRAFICA\\C#_Proyecto_Final\\C#_Proyecto_Final\\FrmFractales.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmFractales.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T23:49:21.682Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmFractales.cs",
+              "DocumentMoniker": "C:\\Users\\sanch\\OneDrive\\Documentos\\QUINTO\\GRAFICA\\C#_Proyecto_Final\\C#_Proyecto_Final\\FrmFractales.cs",
+              "RelativeDocumentMoniker": "FrmFractales.cs",
+              "ToolTip": "C:\\Users\\sanch\\OneDrive\\Documentos\\QUINTO\\GRAFICA\\C#_Proyecto_Final\\C#_Proyecto_Final\\FrmFractales.cs",
+              "RelativeToolTip": "FrmFractales.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAvwI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T00:09:07.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fractal3.cs",
+              "DocumentMoniker": "C:\\Users\\sanch\\OneDrive\\Documentos\\QUINTO\\GRAFICA\\C#_Proyecto_Final\\C#_Proyecto_Final\\Fractal3.cs",
+              "RelativeDocumentMoniker": "Fractal3.cs",
+              "ToolTip": "C:\\Users\\sanch\\OneDrive\\Documentos\\QUINTO\\GRAFICA\\C#_Proyecto_Final\\C#_Proyecto_Final\\Fractal3.cs",
+              "RelativeToolTip": "Fractal3.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwFUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T00:06:23.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fractal2.cs",
+              "DocumentMoniker": "C:\\Users\\sanch\\OneDrive\\Documentos\\QUINTO\\GRAFICA\\C#_Proyecto_Final\\C#_Proyecto_Final\\Fractal2.cs",
+              "RelativeDocumentMoniker": "Fractal2.cs",
+              "ToolTip": "C:\\Users\\sanch\\OneDrive\\Documentos\\QUINTO\\GRAFICA\\C#_Proyecto_Final\\C#_Proyecto_Final\\Fractal2.cs",
+              "RelativeToolTip": "Fractal2.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwCYAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T00:06:02.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fractal1.cs",
+              "DocumentMoniker": "C:\\Users\\sanch\\OneDrive\\Documentos\\QUINTO\\GRAFICA\\C#_Proyecto_Final\\C#_Proyecto_Final\\Fractal1.cs",
+              "RelativeDocumentMoniker": "Fractal1.cs",
+              "ToolTip": "C:\\Users\\sanch\\OneDrive\\Documentos\\QUINTO\\GRAFICA\\C#_Proyecto_Final\\C#_Proyecto_Final\\Fractal1.cs",
+              "RelativeToolTip": "Fractal1.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAowD0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T00:05:48.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
